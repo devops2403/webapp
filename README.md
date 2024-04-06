@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/akosschmidt/AgileProject/_apis/build/status%2Fakoschmi.gitapp?branchName=main)](https://dev.azure.com/akosschmidt/AgileProject/_build/latest?definitionId=5&branchName=main)
